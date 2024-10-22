@@ -281,5 +281,81 @@ title: UMLcn 业务建模
 
 
 
+[付费产品](https://umlcn.com/#productList)
+
+# 
+
+## [技术、产品、商业（小册子）](https://umlcn.com/#CallMe)
+
+100元  50 元
+
+[经验避坑](https://umlcn.com/)
+
+![cover](https://umlcn.com/products/%E6%8A%80%E6%9C%AF%E4%BA%A7%E5%93%81%E5%95%86%E4%B8%9A.png)
+
+小册子
+
+## [付费技术咨询](https://umlcn.com/#CallMe)
+
+2000元/小时  1000元/小时
+
+[技术、产品、商业个人规划](https://umlcn.com/)
+
+![cover](https://umlcn.com/products/%E4%BB%98%E8%B4%B9%E5%92%A8%E8%AF%A2.png)
+
+语音咨询
+
+## [个人教练](https://umlcn.com/#CallMe)
+
+10000元/年  5000元/年
+
+[成长、避坑、技术、管理指南、付费](https://umlcn.com/)
+
+![cover](https://umlcn.com/products/%E4%B8%AA%E4%BA%BA%E6%95%99%E7%BB%83.png)
+
+一年陪伴
+
+## [公司咨询](https://umlcn.com/#CallMe)
+
+报价详细联系我咨询
+
+[技术咨询架构咨询](https://umlcn.com/)
+
+![cover](https://umlcn.com/products/%E5%85%AC%E5%8F%B8%E5%92%A8%E8%AF%A2.png)
+
+公司咨询
+
+# 
+
+## [联系我购买](https://umlcn.com/#CallMe)
+
+
+
+![QQ号](https://umlcn.com/qrimg/QQ/QQ.png)
+
+### QQ号
+
+扫码联系我购买
+
+![微信公众号](https://umlcn.com/qrimg/wxpublic/out/09.png)
+
+### 微信公众号
+
+扫描关注微信公众号
+
+![免费的编程小资料](https://umlcn.com/qrimg/educode/out/09.png)
+
+### 免费的编程小资料
+
+扫码或点击查询
+
+
+
+[educode.cn](http://educode.cn/)  [codeedu.cn](http://codeedu.cn/)  [notgeek.cn](http://notgeek.cn/)  
+
+ [noGeek.cn](http://nogeek.cn/)
+
+
+
 
 
