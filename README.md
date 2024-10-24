@@ -330,27 +330,29 @@ title: UMLcn 业务建模
 
 # 
 
-## [联系我购买](https://umlcn.com/#CallMe)
-
-
-
-![QQ号](https://umlcn.com/qrimg/QQ/QQ.png)
+## [联系我购买](https://umlcn.com/#CallMe) 
 
 ### QQ号
 
 扫码联系我购买
 
-![微信公众号](https://umlcn.com/qrimg/wxpublic/out/09.png)
-
 ### 微信公众号
 
 扫描关注微信公众号
 
-![免费的编程小资料](https://umlcn.com/qrimg/educode/out/09.png)
-
 ### 免费的编程小资料
 
 扫码或点击查询
+
+| QQ号                                       | 微信公众号                                                 | 免费编程资料                                                 |
+| ------------------------------------------ | ---------------------------------------------------------- | ------------------------------------------------------------ |
+| 扫码联系我购买                             | 扫描关注微信公众号                                         | 扫码或点击查询                                               |
+| ![QQ号](https://umlcn.com/qrimg/QQ/QQ.png) | ![微信公众号](https://umlcn.com/qrimg/wxpublic/out/09.png) | ![免费的编程小资料](https://umlcn.com/qrimg/educode/out/09.png) |
+
+
+
+
+
 
 
 
