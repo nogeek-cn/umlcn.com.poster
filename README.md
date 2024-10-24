@@ -294,13 +294,7 @@ title: UMLcn 业务建模
 
 ## [付费产品](https://umlcn.com/#productList) 
 
-[技术、产品、商业（小册子）](https://umlcn.com/#CallMe) 
-
-[付费技术咨询](https://umlcn.com/#CallMe)
-
-[个人教练](https://umlcn.com/#CallMe)
-
-[公司咨询](https://umlcn.com/#CallMe)
+### [技术、产品、商业（小册子）](https://umlcn.com/#CallMe) 、[付费技术咨询](https://umlcn.com/#CallMe)、[个人教练](https://umlcn.com/#CallMe)、[公司咨询](https://umlcn.com/#CallMe) 
 
 | [技术、产品、商业（小册子）](https://umlcn.com/#CallMe)      | [付费技术咨询](https://umlcn.com/#CallMe)                    | [个人教练](https://umlcn.com/#CallMe)                        | [公司咨询](https://umlcn.com/#CallMe)                        |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
