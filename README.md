@@ -110,7 +110,10 @@ title: UMLcn 业务建模
 
 
 ![工作分解结构图](https://umlcn.com/home-puml/%E5%B7%A5%E4%BD%9C%E5%88%86%E8%A7%A3%E7%BB%93%E6%9E%84%E5%9B%BE.svg)
-快速开始](https://umlcn.com/plantuml语法/工作分解结构图)
+
+
+
+
 
 
 
@@ -351,9 +354,15 @@ title: UMLcn 业务建模
 
 
 
-[educode.cn](http://educode.cn/)  [codeedu.cn](http://codeedu.cn/)  [notgeek.cn](http://notgeek.cn/)  
+## 友链
 
- [noGeek.cn](http://nogeek.cn/)
+#### [educode.cn](http://educode.cn/) 
+
+#### [codeedu.cn](http://codeedu.cn/) 
+
+#### [notgeek.cn](http://notgeek.cn/)  
+
+#### [noGeek.cn](http://nogeek.cn/) 
 
 
 
