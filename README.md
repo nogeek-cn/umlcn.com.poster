@@ -284,11 +284,11 @@ title: UMLcn 业务建模
 
 
 
-[付费产品](https://umlcn.com/#productList)
+## [付费产品](https://umlcn.com/#productList)
 
-# 
 
-## [技术、产品、商业（小册子）](https://umlcn.com/#CallMe)
+
+### [技术、产品、商业（小册子）](https://umlcn.com/#CallMe)
 
 100元  50 元
 
@@ -298,7 +298,7 @@ title: UMLcn 业务建模
 
 小册子
 
-## [付费技术咨询](https://umlcn.com/#CallMe)
+### [付费技术咨询](https://umlcn.com/#CallMe)
 
 2000元/小时  1000元/小时
 
@@ -308,7 +308,7 @@ title: UMLcn 业务建模
 
 语音咨询
 
-## [个人教练](https://umlcn.com/#CallMe)
+### [个人教练](https://umlcn.com/#CallMe)
 
 10000元/年  5000元/年
 
@@ -318,7 +318,7 @@ title: UMLcn 业务建模
 
 一年陪伴
 
-## [公司咨询](https://umlcn.com/#CallMe)
+### [公司咨询](https://umlcn.com/#CallMe)
 
 报价详细联系我咨询
 
@@ -358,15 +358,9 @@ title: UMLcn 业务建模
 
 ## 友链
 
-#### [educode.cn](http://educode.cn/) 
+#### [educode.cn](http://educode.cn/) 、[codeedu.cn](http://codeedu.cn/) 、[notgeek.cn](http://notgeek.cn/)  、[noGeek.cn](http://nogeek.cn/) 
 
-#### [codeedu.cn](http://codeedu.cn/) 
-
-#### [notgeek.cn](http://notgeek.cn/)  
-
-#### [noGeek.cn](http://nogeek.cn/) 
-
-
-
-
+|                                  |                                  |                                  |                                |
+| -------------------------------- | -------------------------------- | -------------------------------- | ------------------------------ |
+| [educode.cn](http://educode.cn/) | [codeedu.cn](http://codeedu.cn/) | [notgeek.cn](http://notgeek.cn/) | [noGeek.cn](http://nogeek.cn/) |
 
